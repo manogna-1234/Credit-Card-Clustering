@@ -1,0 +1,1 @@
+print("Market Segmentation Project")
